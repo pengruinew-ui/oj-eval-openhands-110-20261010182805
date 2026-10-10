@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=c++17 -O2 -pipe -static -s
+CXXFLAGS = -std=c++17 -O2 -pipe -s
 TARGET = code
 SRCS = main.cpp
 
